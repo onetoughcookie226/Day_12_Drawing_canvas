@@ -4,4 +4,39 @@ body {
 canvas {
     background: #fff;
     display: block;
+    margin: 50px auto 10px;
+    cursor: crosshair;
 }
+
+.controls {
+    display: block;
+    margin: 50px auto 10px;
+}
+
+ul {
+}
+
+ul li {
+    display: block;
+    float: left;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 999px;
+    height: 40px;
+    width: 40px;
+    cursor: auto;
+
+}
+
+.red {
+    background-color: red;
+    cursor: hand;
+}
+
+.blue {
+    background: blue;
+
+}
+ .yellow {
+    background: yellow;
+ }
