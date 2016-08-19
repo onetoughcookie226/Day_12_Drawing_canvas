@@ -40,3 +40,8 @@ ul li {
  .yellow {
     background: yellow;
  }
+
+ .selected {
+     border: 5px solid #fff;
+     border-radius: 999px;
+ }
