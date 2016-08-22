@@ -45,3 +45,29 @@ ul li {
      border: 5px solid #fff;
      border-radius: 999px;
  }
+
+/* New Color Palette */
+#colorSelect {
+    background: #fff;
+    width: 305px;
+    margin-top: 25px;
+    padding: 18px;
+    border-radius: 5px;
+
+}
+
+#newColor {
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    border-radius: 3px;
+    float:left;
+}
+
+.sliders p {
+    margin: 8px;
+    vertical-align: middle;
+}
+.sliders label{
+    display: inline-block;
+}
